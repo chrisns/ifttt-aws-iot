@@ -1,0 +1,25 @@
+{
+  "name": "ifttt-aws-iot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisns/ifttt-aws-iot.git"
+  },
+  "author": "Chris Nesbitt-Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisns/ifttt-aws-iot/issues"
+  },
+  "homepage": "https://github.com/chrisns/ifttt-aws-iot#readme",
+  "devDependencies": {
+    "claudia": "^5.1.2"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
