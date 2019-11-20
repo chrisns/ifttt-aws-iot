@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/chrisns/ifttt-aws-iot#readme",
   "devDependencies": {
-    "claudia": "^5.8.0"
+    "claudia": "^5.10.0"
   },
   "dependencies": {
     "axios": "^0.18.1"
