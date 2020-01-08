@@ -20,6 +20,6 @@
     "claudia": "^5.8.0"
   },
   "dependencies": {
-    "axios": "^0.18.1"
+    "axios": "^0.19.1"
   }
 }
